@@ -80,6 +80,9 @@
         " Solidity
         Plugin 'tomlion/vim-solidity'
 
+        " Golang
+        Plugin 'fatih/vim-go'
+
         " A fancy start screen, shows MRU etc.
         Plugin 'mhinz/vim-startify'
 
